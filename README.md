@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/saitejdot/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
 | [1051-height-checker](https://github.com/saitejdot/Data-Structures-Algorithms/tree/master/1051-height-checker) |
 | [1929-concatenation-of-array](https://github.com/saitejdot/Data-Structures-Algorithms/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saitejdot/Data-Structures-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/saitejdot/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saitejdot/Data-Structures-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
